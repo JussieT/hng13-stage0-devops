@@ -31,7 +31,7 @@ This repository contains:
 
 ## 🚀 How to Access
 Visit the deployed server at:  
-👉 **
+👉 ** http://3.89.116.206/ **
 ---
 
 ## 📂 Repository Setup
@@ -39,13 +39,7 @@ This repository contains:
 - A customized `index.html` file hosted on the live NGINX server.
 - A `README.md` detailing deployment steps and configuration information.
 
----
-
-## 🚀 How to Access
-Visit the deployed server at:  
-👉 **[http://your-ec2-public-ip/]**
-
----
+--
 
 ## 🧠 Task Objectives
 - Fork and manage a GitHub repository.  
